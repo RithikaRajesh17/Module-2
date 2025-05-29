@@ -24,7 +24,9 @@ print(f"0b{binary_number}")
 
  
 ## Output
-![image](https://github.com/user-attachments/assets/2591475f-d669-4027-8e04-a0722685ffb6)
+![Screenshot 2025-04-29 105810](https://github.com/user-attachments/assets/dd3f4527-1466-416f-a236-370dfac5c76f)
+
+
 
 
 
