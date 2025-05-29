@@ -10,8 +10,24 @@ To write a Python program to convert the number **16** into its **binary represe
 
 ## 🧾 Program
 
-Add Code Here
+def decimal_to_binary(decimal_number):
+    
+    binary_number = bin(decimal_number)[2:]
+    return binary_number
 
+# Input from the user
+decimal_number = int(input())
+
+# Convert and display the binary equivalent
+binary_number = decimal_to_binary(decimal_number)
+print(f"0b{binary_number}")
+
+ 
 ## Output
+![image](https://github.com/user-attachments/assets/2591475f-d669-4027-8e04-a0722685ffb6)
+
+
 
 ## Result
+
+The expected Output is acheived
